@@ -1,0 +1,35 @@
+p{   margin: 25px 50px 75px 100px;}
+.p1{ border-style: dashed;
+    border-radius: 50px;
+    color: crimson;
+    background-color: darkgrey;
+}
+.p2{ border-width: 30px;
+border-style: double;
+color: darkmagenta; 
+background-color: darksalmon;}
+ .p3{ border-style: groove;
+ border-width: thick 70px;
+    color: rgb(221, 182, 190);
+    background-color: deeppink;}
+    .p4 { border-width: 50px;
+        border-style: outset;
+        color: brown; 
+        background-color: darksalmon;}    
+        .p5{ border-width: 40px;
+            border-style: hidden;
+            color:green; 
+            background-color: pink}
+         
+         .p6 { border-width: 80px;
+            border-style: initial;
+            color: rgb(163, 30, 16); 
+            background-color: rgb(233, 122, 174);} 
+            .p7{ border-width: 50px;
+                border-style: ridge;
+                color: rgb(0, 139, 132); 
+                background-color: rgb(233, 213, 122);} 
+                h1{ background-image: url(index.jpeg); height: 180px;
+                border-style: ridge;
+            border-width: thick;}
+            body{background-image: url(index1.jpeg);}
